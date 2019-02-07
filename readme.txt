@@ -15,3 +15,4 @@ Upload the .zip folder into the theme section of wordpress.
 == Changelog ==
 1.0 start van updateClass
 1.1 testing
+1.1.2 testing
