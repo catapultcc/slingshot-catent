@@ -17,3 +17,4 @@ Upload the .zip folder into the theme section of wordpress.
 1.1 testing
 1.1.2 testing
 1.1.3 testing
+1.1.4 testing
